@@ -1,0 +1,60 @@
+.containers {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.image1 {
+    margin-right: 20px;
+}
+
+.image2 {
+margin-left: 20px;
+margin-right: 20px;
+}
+
+.image3 {
+   margin-left: 40px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color:  #456364;
+    padding-bottom: 20px;
+}
+
+h2 {
+    font-size: 20px;
+    color:  #456364;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: 500;
+}
+
+#logo 
+{ 
+    width: 350px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.images 
+{ 
+    width: 350px;
+    height: auto;
+    border-radius: 15px;
+}
+
+.images:hover {
+    -webkit-transform: scale(1.05);
+        -ms-transform: scale(1.05);
+        transform: scale(1.05);
+        transition: 0.8s ease;
+}
+
+.secs {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

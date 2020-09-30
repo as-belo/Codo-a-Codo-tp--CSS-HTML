@@ -1,0 +1,47 @@
+h1 { 
+    text-align: center;
+    color: #5F9EA0;
+    padding-top: 30px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 350px;
+    height: auto;
+    border-bottom-color: #5F9EA0;
+    border-bottom: 5px;
+    
+}
+
+.desc {
+    font-size: 20px;
+    color: #5F9EA0;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-weight: 500;
+    display: block;
+    margin: auto;
+}
+
+ul {
+    font-size: 20px;
+    color: #5F9EA0;
+    font-weight: 500;    
+}
+
+.mat {
+    font-size: 20px;
+    color: #5F9EA0;
+    
+    font-weight: 500;
+    
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    padding-left: 220px;
+    padding-bottom: 20px;
+}

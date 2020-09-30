@@ -1,0 +1,39 @@
+body {
+    font-family: 'Amatic SC', cursive;
+}
+.title {
+    font-size: 20px;
+    color: #5F9EA0;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-weight: 500;
+    display: block;
+    margin: auto;
+}
+
+#form {
+    text-align:left;
+    border-bottom: lightcoral;
+}
+
+.submit {
+    background-color: #DCDCDC;
+    height: 40px; 
+    width: 200px; 
+    margin-top: 10px;
+    position: relative;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    font-weight: 800;
+    color: #5F9EA0;
+    background-color: #DCDCDC;
+}
+
+.submit:hover {
+    -webkit-transform: scale(1.05);
+        -ms-transform: scale(1.05);
+        transform: scale(1.03);
+        transition: 0.8s ease;
+}

@@ -1,0 +1,24 @@
+#logo {
+    width: 370px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: #5F9EA0;
+    padding-bottom: 20px;
+}
+
+.aboutme {
+    font-size: 20px;
+    color: #5F9EA0;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-weight: 500;
+    display: block;
+    margin: auto;
+}
